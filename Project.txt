@@ -1,23 +1,35 @@
-Nutrition and Meal Tracking App:
+Nutrition and Meal Tracking App: MealMaster
 
 Tech Stack: JavaScript, React, Node.js, MongoDB.
 
-Updated Features:
+Core Features:
 
-Recipe Creation and Sharing: Users can create, save, and share recipes. Each recipe displays total calories, protein, carbs, and fat per serving, calculated based on the ingredient amounts and total servings.
-Weekly Meal Planning: Users can select from recipes, snacks, or individual ingredients to plan their weekly meals. This feature allows for a flexible and personalized meal planning experience.
-Saving Meal Plans: Users have the ability to save their full meal plans for future use, enabling them to revisit and reuse plans that worked well for them.
-Automated Grocery List Generation: Based on the selected meal plan, the app automatically generates a grocery list, which users can save and access separately. This helps streamline the shopping process and ensures all necessary ingredients are purchased.
+Recipe Creation and Sharing: Users can create, save, and share recipes. Each recipe displays detailed nutritional information, including calories, protein, carbs, and fats per serving.
+
+Weekly Meal Planning: Users can plan their weekly meals by selecting from recipes, snacks, or individual ingredients, creating a personalized meal plan.
+
+Saving Meal Plans: Users can save their full meal plans for future use, allowing for easy access and reuse of successful meal plans.
+
+Automated Grocery List Generation: Based on the meal plan, the app automatically generates a grocery list, which can be saved and accessed separately.
+
+Enhanced Features:
+
+Portion Adjustment and Macro Recalculation: This feature allows users to adjust the portion sizes of recipes. The app recalculates and updates the macro-nutritional values (like protein, carbs, fats) based on the new serving size.
+
+Protein-Based Recipe Search: Users can search for recipes by specifying their protein requirements (e.g., recipes with approximately 40 grams of protein). The app filters and presents recipes that meet these nutritional criteria.
+
 MVP:
 
 Recipe creation with nutritional breakdown.
-Meal planning interface with the ability to add recipes, snacks, and ingredients.
-Functionality to save and access meal plans.
-Automated grocery list generation based on meal plans.
+Meal planning interface.
+Functionality to save meal plans.
+Automated grocery list generation.
+Portion adjustment with macro recalculations.
+Protein-based recipe search.
 Backlog:
 
-Integration with recipe databases for an extensive collection of meal options.
-Advanced meal planning tools, such as dietary preference filters and calorie goals.
-User community features, like recipe rating and commenting.
-Option to sync grocery lists with mobile devices for easy access while shopping.
-Integration with food delivery services for direct grocery order placement.
+Integration with extensive recipe databases.
+Advanced meal planning tools (dietary filters, calorie goals).
+Community features (recipe rating, commenting).
+Mobile app sync for grocery lists.
+Food delivery service integration.
