@@ -1,0 +1,23 @@
+Nutrition and Meal Tracking App:
+
+Tech Stack: JavaScript, React, Node.js, MongoDB.
+
+Updated Features:
+
+Recipe Creation and Sharing: Users can create, save, and share recipes. Each recipe displays total calories, protein, carbs, and fat per serving, calculated based on the ingredient amounts and total servings.
+Weekly Meal Planning: Users can select from recipes, snacks, or individual ingredients to plan their weekly meals. This feature allows for a flexible and personalized meal planning experience.
+Saving Meal Plans: Users have the ability to save their full meal plans for future use, enabling them to revisit and reuse plans that worked well for them.
+Automated Grocery List Generation: Based on the selected meal plan, the app automatically generates a grocery list, which users can save and access separately. This helps streamline the shopping process and ensures all necessary ingredients are purchased.
+MVP:
+
+Recipe creation with nutritional breakdown.
+Meal planning interface with the ability to add recipes, snacks, and ingredients.
+Functionality to save and access meal plans.
+Automated grocery list generation based on meal plans.
+Backlog:
+
+Integration with recipe databases for an extensive collection of meal options.
+Advanced meal planning tools, such as dietary preference filters and calorie goals.
+User community features, like recipe rating and commenting.
+Option to sync grocery lists with mobile devices for easy access while shopping.
+Integration with food delivery services for direct grocery order placement.
